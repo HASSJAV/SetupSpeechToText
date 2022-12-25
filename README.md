@@ -8,7 +8,7 @@ pip install git+https://github.com/salsina/persian-fluency-detector#egg=persian_
 pip install git+https://github.com/salsina/Persian-syllable-counter#egg=persian_syllable_counter
 ```
 ```python
-pip install git+https://github.com/HassanJavaheri/SetupSpeechToText#egg=SetupSpeechToText
+pip install git+https://github.com/HASSJAV/SetupSpeechToText#egg=SetupSpeechToText
 ```
 
 ## speechToText
