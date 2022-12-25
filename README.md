@@ -1,5 +1,5 @@
 # SpeechToText
-
+ref:
 ## Prerequisites
 ```python
 pip install git+https://github.com/salsina/persian-fluency-detector#egg=persian_fluency_detector
@@ -10,11 +10,6 @@ pip install git+https://github.com/salsina/Persian-syllable-counter#egg=persian_
 ```python
 pip install git+https://github.com/HassanJavaheri/SetupSpeechToText#egg=SetupSpeechToText
 ```
-
-
-
-function:
-here's a list of functions you can use:
 
 ## speechToText
 This function converts audio files to text files.
