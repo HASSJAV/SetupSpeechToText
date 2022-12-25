@@ -12,7 +12,7 @@ setup(
     author='Nbic',
     long_description_content_type="text/markdown",
     packages=find_packages(include=["notq*"]),
-    url="https://github.com//HassanJavaheri/SetupSpeechToText",
+    url="https://github.com//HASSJAV/SetupSpeechToText",
 install_requires=['torchaudio ==0.9.0',
                         'pydub ==0.25.1',
                         'speechRecognition ==3.8.1',
