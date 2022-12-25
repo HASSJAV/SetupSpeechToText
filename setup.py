@@ -21,13 +21,12 @@ install_requires=['torchaudio ==0.9.0',
                         'transformers ==4.11.2',
                         'torch ==1.9.0',
                         'wget ==3.2',
-                        'ffmpeg
-                        'glob2
-                        'cryptography==36.0.2
-                        'torchaudio
-                        'pydub==0.25.1
-                        'librosa==0.9.2
-                        'fabric
+                        'ffmpeg==0.2.0,
+                        'glob2==0.4.1,
+                        'cryptography==36.0.2,
+                        'pydub==0.25.1,
+                        'librosa==0.9.2,
+                        'fabric==2.7.1,
                         'persian_fluency_detector',
                         'persian_syllable_counter'],
     dependency_links=['https://github.com/salsina/persian-fluency-detector#egg=persian_fluency_detector', 
