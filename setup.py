@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="mbcs") as readme_file:
     ''''''
 
 setup(
-    name='SpeechToText',
+    name='SetupSpeechToText',
     version='1.0.0',
     description='SpeechToText is a Python base tool collected and developed for speech and language processing in Persian',
     long_description=readme,
