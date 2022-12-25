@@ -5,14 +5,14 @@ with open("README.md", "r", encoding="mbcs") as readme_file:
     ''''''
 
 setup(
-    name='notq',
+    name='SpeechToText',
     version='1.0.0',
-    description='Notq is a Python base tool collected and developed for speech and language processing in Persian',
+    description='SpeechToText is a Python base tool collected and developed for speech and language processing in Persian',
     long_description=readme,
     author='Nbic',
     long_description_content_type="text/markdown",
     packages=find_packages(include=["notq*"]),
-    url="https://github.com/shaqayeql/Notq",
+    url="https://github.com//HassanJavaheri/SetupSpeechToText",
 install_requires=['torchaudio ==0.9.0',
                         'pydub ==0.25.1',
                         'speechRecognition ==3.8.1',
